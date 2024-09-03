@@ -1,0 +1,37 @@
+:root {
+
+    /* Colors */
+
+    --colorWhite: #fff;
+    --colorBlack: #000;
+    --colorBlueGem: #3A0CA3;
+    --colorMineShaft: #2B2B2B;
+    --colorTropicalBlue: #C7D0FA;
+    --colorCodGray: #1E1E1E;
+    --colorRoyalBlue: #4361EE;
+    --colorCodGray: #0B090A;
+    --colorGray: #808080;
+    --colorSilverChalice: #AAAAAA;
+    --colorMartinique: #392F5A;
+    --colorWildSand: #F6F6F6;
+    --colorDolphin: #6D6A75;
+    --colorTundora: #444444;
+    --colorPippin: #FFE1E1;
+    --colorRed: #FF1111;
+    --colorPattensBlue: #D7EEFF;
+    --colorDodgerBlue: #119BFF;
+    --colorHintofGreen: #F1FFF1;
+    --colorMalachite: #00CE3A;
+    --colorConcrete: #F2F2F2;
+    --colorAlto: #D4D4D4;
+    --colorSupernova: #FFC700;
+    --colorSelago: #ECEFFD;
+
+
+    
+
+    /* Fonts */
+
+    --poppins: "Poppins", sans-serif;
+    
+}

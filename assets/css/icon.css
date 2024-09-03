@@ -1,0 +1,98 @@
+.icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-15 {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-20 {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-40 {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-50 {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-80 {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-90 {
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.icon-arrow-right {
+    background-image: url(/assets/img/icon-arrow-right.svg);
+}
+
+.icon-arrow-down {
+    background-image: url(/assets/img/icon-arrow-down.svg);
+}
+
+.icon-arrow-left {
+    background-image: url(/assets/img/icon-arrow-left.svg);
+}
+
+.icon-arrow-right-lg {
+    background-image: url(/assets/img/icon-arrow-right-long.svg);
+}
+
+.icon-house {
+    background-image: url(/assets/img/icon-house.svg);
+}
+
+.icon-advance-filter {
+    background-image: url(/assets/img/icon-advance-filter.svg);
+}
+
+.icon-user {
+    background-image: url(/assets/img/icon-user.svg);
+}
+
+.icon-yellow {
+    background-image: url(/assets/img/icon-yellow.svg);
+}
+
